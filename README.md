@@ -1,7 +1,7 @@
 # yii2-docker-basic
 Nginx + PHP-FPM + MySQL docker-compose layout for yii2 basic template
 
-**Docker setup*
+**Docker setup**
 1. Clone this repo into `docker` folder inside your yii2 project root
 2. `cd docker`
 3. `docker-compose build`
